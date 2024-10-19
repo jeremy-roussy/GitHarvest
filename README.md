@@ -1,5 +1,6 @@
 # GitHarvest
 
+Explore Random GitHub Users.
 A GitHub API Consumption - JavaScript Project
 
 ## Project Overview
@@ -16,7 +17,7 @@ This project is a JavaScript-based application designed for a user management ag
 
 - **Profile Image**: GitHub user’s avatar.
 - **Username**: GitHub handle (login).
-- **Description**: A bio or description. If missing, show `"No description available"`.
+- **Description**: GitHub user’s bio. If missing, show `"No description available"`.
 
 ## 🛠️ Technologies Used
 
@@ -68,5 +69,5 @@ A typical response from the API may look like:
 [Here](https://jeremy-roussy.github.io/GitHarvest/) you can see the project. The app will automatically fetch and display information for 8 GitHub users.
 
 ## 📄 License
-This project is licensed under no license.
+This project is under no license.
 
